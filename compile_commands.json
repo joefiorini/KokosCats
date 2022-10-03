@@ -1,0 +1,54 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++11",
+      "-Wsuggest-override",
+      "-fPIC",
+      "-I/music/Rack2Pro/Rack-SDK//include",
+      "-I/music/Rack2Pro/Rack-SDK//dep/include",
+      "-g",
+      "-O3",
+      "-march=nehalem",
+      "-funsafe-math-optimizations",
+      "-fno-omit-frame-pointer",
+      "-Wall",
+      "-Wextra",
+      "-Wno-unused-parameter",
+      "-DARCH_LIN",
+      "-c",
+      "-o",
+      "build/src/Lagomorph.cpp.o",
+      "src/Lagomorph.cpp"
+    ],
+    "directory": "/src/vcvrack/KokosCats",
+    "file": "/src/vcvrack/KokosCats/src/Lagomorph.cpp",
+    "output": "/src/vcvrack/KokosCats/build/src/Lagomorph.cpp.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++11",
+      "-Wsuggest-override",
+      "-fPIC",
+      "-I/music/Rack2Pro/Rack-SDK//include",
+      "-I/music/Rack2Pro/Rack-SDK//dep/include",
+      "-g",
+      "-O3",
+      "-march=nehalem",
+      "-funsafe-math-optimizations",
+      "-fno-omit-frame-pointer",
+      "-Wall",
+      "-Wextra",
+      "-Wno-unused-parameter",
+      "-DARCH_LIN",
+      "-c",
+      "-o",
+      "build/src/plugin.cpp.o",
+      "src/plugin.cpp"
+    ],
+    "directory": "/src/vcvrack/KokosCats",
+    "file": "/src/vcvrack/KokosCats/src/plugin.cpp",
+    "output": "/src/vcvrack/KokosCats/build/src/plugin.cpp.o"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "slug": "KokosCats",
+  "name": "KokosCats",
+  "version": "2.0.0",
+  "license": "MIT",
+  "brand": "Kokos",
+  "author": "Joe Fiorini",
+  "authorEmail": "",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "Lagomorph",
+      "name": "Lagomorph",
+      "description": "",
+      "tags": []
+    }
+  ]
+}
