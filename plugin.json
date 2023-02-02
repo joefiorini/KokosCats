@@ -18,6 +18,15 @@
       "name": "Lagomorph",
       "description": "",
       "tags": []
+    },
+    {
+      "slug": "Concat",
+      "name": "Concat",
+      "description": "Concatenate polyphonic cables",
+      "tags": [
+        "utility",
+        "polyphonic"
+      ]
     }
   ]
 }
